@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22ffa333-440b-41f9-931e-98e3580f8fcd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/src/test/java/com/candy/demo/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/test/java/com/candy/demo/LibraryTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="candy_demo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="candy_demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="candy_demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SV4dCctMYWYK1eklC6KFeX0KRd" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/saman/Downloads/sample_building_java_libraries-groovy-dsl&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.LibraryTest.someLibraryMethodReturnsTrue">
+    <configuration name="LibraryTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":lib:test" />
+            <option value="--tests" />
+            <option value="&quot;com.candy.demo.LibraryTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="LibraryTest.someLibraryMethodReturnsTrue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":lib:test" />
+            <option value="--tests" />
+            <option value="&quot;com.candy.demo.LibraryTest.someLibraryMethodReturnsTrue&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="candy_demo [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="candy_demo [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="candy_demo [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
+      <option name="passParentEnvironments" value="true" />
+      <option name="workspaceLocation" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="LiferayServerConfiguration" factoryName="Liferay Server">
+      <option name="alternativeJrePath" value="" />
+      <option name="alternativeJrePathEnabled" value="true" />
+      <option name="buildType" value="" />
+      <option name="bundleLocation" value="" />
+      <option name="developerMode" value="true" />
+      <option name="gogoShellPort" value="11311" />
+      <option name="passParentEnvironments" value="true" />
+      <option name="vmParameters" value="-Xmx2560m -XX:MaxMetaspaceSize=768m -XX:MetaspaceSize=768m" />
+      <envs>
+        <env name="PATH" value="/usr/lib/jvm/java-1.8.0-openjdk-amd64/bin:$USER_HOME$/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/opt/apache-maven-3.8.4/bin" />
+        <env name="LC_MEASUREMENT" value="en_US.UTF-8" />
+        <env name="XAUTHORITY" value="/run/user/1002/gdm/Xauthority" />
+        <env name="INVOCATION_ID" value="efd5203e4de2457b907e16e3af434274" />
+        <env name="XMODIFIERS" value="@im=ibus" />
+        <env name="LC_TELEPHONE" value="en_US.UTF-8" />
+        <env name="XDG_DATA_DIRS" value="/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop" />
+        <env name="GDMSESSION" value="ubuntu" />
+        <env name="MANDATORY_PATH" value="/usr/share/gconf/ubuntu.mandatory.path" />
+        <env name="LC_TIME" value="en_US.UTF-8" />
+        <env name="SNAP_COMMON" value="/var/snap/intellij-idea-community/common" />
+        <env name="PAPERSIZE" value="letter" />
+        <env name="SNAP_INSTANCE_KEY" value="" />
+        <env name="SNAP_USER_COMMON" value="$USER_HOME$/snap/intellij-idea-community/common" />
+        <env name="DBUS_SESSION_BUS_ADDRESS" value="unix:path=/run/user/1002/bus" />
+        <env name="DEFAULTS_PATH" value="/usr/share/gconf/ubuntu.default.path" />
+        <env name="SNAP_REVISION" value="442" />
+        <env name="XDG_CURRENT_DESKTOP" value="ubuntu:GNOME" />
+        <env name="JOURNAL_STREAM" value="8:69920" />
+        <env name="SSH_AGENT_PID" value="3723" />
+        <env name="LC_PAPER" value="en_US.UTF-8" />
+        <env name="SESSION_MANAGER" value="local/saman:@/tmp/.ICE-unix/3852,unix/saman:/tmp/.ICE-unix/3852" />
+        <env name="USERNAME" value="saman" />
+        <env name="LOGNAME" value="saman" />
+        <env name="PWD" value="$USER_HOME$" />
+        <env name="MANAGERPID" value="2930" />
+        <env name="IM_CONFIG_PHASE" value="1" />
+        <env name="LANGUAGE" value="en_GB:en" />
+        <env name="GJS_DEBUG_TOPICS" value="JS ERROR;JS LOG" />
+        <env name="SHELL" value="/usr/bin/zsh" />
+        <env name="LC_ADDRESS" value="en_US.UTF-8" />
+        <env name="GIO_LAUNCHED_DESKTOP_FILE" value="/var/lib/snapd/desktop/applications/intellij-idea-community_intellij-idea-community.desktop" />
+        <env name="BAMF_DESKTOP_FILE_HINT" value="/var/lib/snapd/desktop/applications/intellij-idea-community_intellij-idea-community.desktop" />
+        <env name="GNOME_DESKTOP_SESSION_ID" value="this-is-deprecated" />
+        <env name="GTK_MODULES" value="gail:atk-bridge" />
+        <env name="SNAP_ARCH" value="amd64" />
+        <env name="XDG_SESSION_DESKTOP" value="ubuntu" />
+        <env name="SNAP_LIBRARY_PATH" value="/var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void" />
+        <env name="SHLVL" value="0" />
+        <env name="LC_IDENTIFICATION" value="en_US.UTF-8" />
+        <env name="LC_MONETARY" value="en_US.UTF-8" />
+        <env name="SNAP_NAME" value="intellij-idea-community" />
+        <env name="QT_IM_MODULE" value="ibus" />
+        <env name="JAVA_HOME" value="/usr/lib/jvm/java-1.8.0-openjdk-amd64" />
+        <env name="XDG_CONFIG_DIRS" value="/etc/xdg/xdg-ubuntu:/etc/xdg" />
+        <env name="LANG" value="en_GB.UTF-8" />
+        <env name="SNAP_INSTANCE_NAME" value="intellij-idea-community" />
+        <env name="XDG_SESSION_TYPE" value="x11" />
+        <env name="SNAP_USER_DATA" value="$USER_HOME$/snap/intellij-idea-community/442" />
+        <env name="DISPLAY" value=":0" />
+        <env name="SNAP_REEXEC" value="" />
+        <env name="SNAP_VERSION" value="2023.1.3" />
+        <env name="LC_NAME" value="en_US.UTF-8" />
+        <env name="XDG_SESSION_CLASS" value="user" />
+        <env name="_" value="/usr/bin/dbus-update-activation-environment" />
+        <env name="SNAP_DATA" value="/var/snap/intellij-idea-community/442" />
+        <env name="GPG_AGENT_INFO" value="/run/user/1002/gnupg/S.gpg-agent:0:1" />
+        <env name="DESKTOP_SESSION" value="ubuntu" />
+        <env name="SNAP" value="$APPLICATION_HOME_DIR$" />
+        <env name="USER" value="saman" />
+        <env name="SNAP_REAL_HOME" value="$USER_HOME$" />
+        <env name="DESKTOP_STARTUP_ID" value="gnome-shell/IntelliJ IDEA Community Edition/3867-3-saman_TIME1530679" />
+        <env name="XDG_MENU_PREFIX" value="gnome-" />
+        <env name="GIO_LAUNCHED_DESKTOP_FILE_PID" value="40182" />
+        <env name="QT_ACCESSIBILITY" value="1" />
+        <env name="WINDOWPATH" value="2" />
+        <env name="LC_NUMERIC" value="en_US.UTF-8" />
+        <env name="GJS_DEBUG_OUTPUT" value="stderr" />
+        <env name="SSH_AUTH_SOCK" value="/run/user/1002/keyring/ssh" />
+        <env name="GNOME_SHELL_SESSION_MODE" value="ubuntu" />
+        <env name="SNAP_CONTEXT" value="XJKvPoVRDVXV_SPtt-9pc20CuRLlFmjAqHwpqzp9RWMElDT7AmH7" />
+        <env name="XDG_RUNTIME_DIR" value="/run/user/1002" />
+        <env name="SNAP_COOKIE" value="XJKvPoVRDVXV_SPtt-9pc20CuRLlFmjAqHwpqzp9RWMElDT7AmH7" />
+        <env name="HOME" value="$USER_HOME$" />
+      </envs>
+      <module name="candy_demo" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.LibraryTest.someLibraryMethodReturnsTrue" />
+        <item itemvalue="Gradle.LibraryTest" />
+        <item itemvalue="Gradle.candy_demo [build]" />
+        <item itemvalue="Gradle.candy_demo [clean]" />
+        <item itemvalue="Gradle.candy_demo [jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22ffa333-440b-41f9-931e-98e3580f8fcd" name="Changes" comment="" />
+      <created>1689218499946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689218499946</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init demo library">
+      <option name="closed" value="true" />
+      <created>1689221864211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689221864211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init demo library" />
+    <option name="LAST_COMMIT_MESSAGE" value="init demo library" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
